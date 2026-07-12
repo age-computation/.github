@@ -1,5 +1,3 @@
----
-
 # AgeComputation
 
 ## Accurate Age Calculator & Date-Based Life Tools
